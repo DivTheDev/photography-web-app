@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.onboarding_back {
+    color: black;
+    font-size: 14px;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    float:left;
+    margin: 50px;
+}
+
+.onboarding_skip button {
+    color: #9A9A9A;
+    font-size: 14px;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    float:right;
+    margin: 50px;
+}
+
+.onboarding_title h3 {
+    color: #3C3C3C;
+    text-align: center;
+}
+
+.onboarding_image{
+    text-align:center;
+    display : block;
+}
+
+.onboarding_title span {
+    color: #8D9EFA;
+}
+
+.onboarding_text {
+    line-height: 2rem;
+    text-align: center;
+    font-weight: 100;
+}
+
+.onboarding_next {
+    display:block;
+    text-align: center;
+}
+.onboarding_next button {
+    font-size: 14px;
+    color: white;
+    background-color: #8D9EFA;
+    border: 2px solid #8D9EFA;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 25px;
+}
+
+.onboarding_counter {
+    padding-top: 2%;
+    font-size: 12px;
+    color: #9A9A9A;
+    text-align: center;
+} 
